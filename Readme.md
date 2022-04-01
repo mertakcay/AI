@@ -1,0 +1,1 @@
+# İşlemsel Zeka Ders Notları - Aybars Uğur-
