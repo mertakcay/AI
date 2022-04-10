@@ -1,1 +1,1 @@
-# İşlemsel Zeka Ders Notları - Aybars Uğur-
+# AI Ders Notları - Prof. Dr.Aybars Uğur-
