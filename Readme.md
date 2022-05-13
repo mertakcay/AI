@@ -3,7 +3,7 @@
 
 ## Prof. Dr. AYBARS UĞUR 
 ---
-### Team Member
+### Team Members
 - Mert Akçay
 - Cem Ulus
 - Deniz Üstüner
