@@ -1,8 +1,14 @@
 #   YAPAY ZEKA YÖNTEMLERİ
 - PROJE-1 RAPORU
 
-## Prof. Dr. AYBARS UĞUR 
----
+## Yetkili
+- *Prof. Dr. AYBARS UĞUR*
+
+## Gerçekleştirilen Algoritmalar
+- Bridge&Torch
+- Genetic Algoritması
+- Wine dataset inceleme ve sınıflandırılması
+-
 ### Team Members
 - Mert Akçay
 - Cem Ulus
